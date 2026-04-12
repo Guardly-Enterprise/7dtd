@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<guardly.pl>
+<guardly>
 	<entry>
 		<link>https://discord.gg/guardlypl</link> 
 		<!-- leave the rest unchanged -->
@@ -8,4 +8,4 @@
 		<title>Guardly.pl</title>
 		<text></text><imagerelpath></imagerelpath>
 	</entry>
-</guardly.pl>
+</guardly>
